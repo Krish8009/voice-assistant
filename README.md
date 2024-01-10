@@ -36,35 +36,6 @@ To run this program you will require a bunch of API keys. Register your API key 
 - [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
 - [DreamStudio API](https://platform.stability.ai/docs/getting-started/authentication)
 
-## Installation
-
-Please make sure that `Python` and `pip` are installed on your system before proceeding with the installation.
-
-Open a terminal and navigate to your home directory.
-
-Clone the repository by using the command
-```
-git clone https://github.com/Krish-Depani/Virtual-Voice-Assistant.git
-```
-
-Navigate to the project directory using the command
-```
-cd Virtal-Voice-Assistant
-```
-
-Obtain all necessary API keys and open the file `Virtual-Voice-Assistant/Data/.env` to insert the keys into the designated placeholder fields.
-
-Run the setup script by using the command
-```
-python setup.py
-```
-
-Navigate to the `Virtual-Voice-Assistant/Plugins/` directory and run the below command to start the virtual voice assistant.
-```
-python main.py
-```
-
-You're all set! The virtual voice assistant should be up and running now.
 
 ## Code Structure
 
